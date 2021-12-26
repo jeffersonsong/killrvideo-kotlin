@@ -50,3 +50,5 @@ limitations under the License.
 [DSE Java driver]: https://docs.datastax.com/en/developer/java-driver-dse/1.6/
 [issues]: https://github.com/KillrVideo/killrvideo-java/issues
 [gremlindsljava]: https://www.datastax.com/dev/blog/gremlin-dsls-in-java-with-dse-graph
+[gRPC]: https://grpc.io/
+[gRPC Kotlin]: https://grpc.io/docs/languages/kotlin/
