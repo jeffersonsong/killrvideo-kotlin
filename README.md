@@ -21,7 +21,7 @@ Use these guides to get started running KillrVideo locally on your development m
   running.
 
 ## Pull Requests, Requests for More Examples
-This project is kotlin fork of orginal [KillrVideo Java] project, 
+This project is kotlin fork of orginal [KillrVideo Java][killrvideo-java] project, 
 migrating to the latest Datastax Java driver. 
 
 ## License
@@ -50,4 +50,4 @@ limitations under the License.
 [DSE Java driver]: https://docs.datastax.com/en/developer/java-driver-dse/1.6/
 [issues]: https://github.com/KillrVideo/killrvideo-java/issues
 [gremlindsljava]: https://www.datastax.com/dev/blog/gremlin-dsls-in-java-with-dse-graph
-[KillrVideo Java]: https://github.com/KillrVideo/killrvideo-java
+[killrvideo-java]: https://github.com/KillrVideo/killrvideo-java
