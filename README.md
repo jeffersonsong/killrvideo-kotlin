@@ -21,12 +21,8 @@ Use these guides to get started running KillrVideo locally on your development m
   running.
 
 ## Pull Requests, Requests for More Examples
-This project will continue to evolve along with Cassandra and you can expect that as Cassandra and the DataStax
-driver add new features. This sample application will try and provide examples of those.
-
-We will gladly accept any pull requests for bug fixes, new features, etc.  and if you have a request for an example
-that you don't see in the code currently, send me a message [@SonicDMG][twitter] or [@clunven][clunTwitter] on Twitter or open an issue
-[here][issues] on GitHub.
+This project is kotlin fork of orginal [KillrVideo Java project](https://github.com/KillrVideo/killrvideo-java), 
+migrating to the latest Datastax Java driver. 
 
 ## License
 Copyright 2021 Jie Song, derived from original work by David Gilardi, Cedrick Lunven.
